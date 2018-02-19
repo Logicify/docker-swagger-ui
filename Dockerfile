@@ -1,4 +1,4 @@
-FROM node:0.10
+FROM node:9.5
 
 MAINTAINER Stéphane Jeandeaux <stephane.jeandeaux@gmail.com>
 
